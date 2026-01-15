@@ -8,14 +8,14 @@
 * **profesor:** [Fernando sañudo B]
 
 ## Markdown
-* **Markdown se usa para escribir texto con formato de manera sencilla, utilizando símbolos simples en lugar de botones o menús. Sirve para:
+* **Markdown se usa para escribir texto con formato de manera sencilla, utilizando símbolos simples en lugar de botones o menús. Sirve para:**
 
-* **Dar formato a textos (títulos, listas, negritas, cursivas)
+* Dar formato a textos (títulos, listas, negritas, cursivas)
 
-* **Crear documentación rápida y clara
+* Crear documentación rápida y clara
 
-* **Escribir archivos README
+* Escribir archivos README
 
-* **Redactar contenido para GitHub, blogs y foros
+* Redactar contenido para GitHub, blogs y foros
 
-* **Tomar apuntes técnicos y académicos
+* Tomar apuntes técnicos y académicos
