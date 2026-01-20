@@ -20,7 +20,7 @@
 
 * Tomar apuntes técnicos y académicos
 
-##commands git
+## commands git
 * git status: Muestra el estado actual del repositorio, indicando qué archivos han sido modificados, agregados o están pendientes de guardar.
 
 * git add nombre_del_archivo: Agrega un archivo específico al área de preparación (staging) para incluirlo en el próximo commit.
